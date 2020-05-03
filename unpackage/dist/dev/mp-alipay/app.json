@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index2/index",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "乐跑之中",
+    "titleBarColor": "#007AFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
